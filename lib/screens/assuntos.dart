@@ -15,7 +15,7 @@ class Assuntos extends StatelessWidget {
       ),
       body: Padding(
         padding: const EdgeInsets.all(16.0),
-        child: Text("As matérias mais recorrentes na prova de " + subject.materia + " são:\n\n" + subject.assuntos),
+        child: Text("As matérias mais recorrentes na prova de " + subject.materia + " do Enem são:\n\n" + subject.assuntos),
       ),
     );
   }
