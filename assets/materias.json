@@ -1,0 +1,50 @@
+[
+  {
+    "materia": "Língua Portuguêsa",
+    "assuntos": "Interpretação de textos (33,3%)\nTendências contemporâneas (28%)\nEstrutura e formação das palavras (21%)\nTipos de texto (19%)\nElementos da narrativa: análise da pessoa, do espaço e do tempo (14%)\nFunções da linguagem (13%)\nPontuação (10%)\nNarratividade (9%)\nLiteratura (7,8%)\nClasse de palavras (7%)\nVerbo (7%)"
+  },
+  {
+    "materia": "Redação",
+    "assuntos": "Fique atento às 5 competências do Enem:\nCompetência 1: Domínio da escrita formal da língua portuguesa\nCompetência 2: Compreender o tema e não fugir do que é proposto\nCompetência 3: Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista\nCompetência 4: Conhecimento dos mecanismos linguísticos necessários para a construção da argumentação\nCompetência 5: Proposta de intervenção, respeitando os direitos humanos."
+  },
+  {
+    "materia": "Artes",
+    "assuntos": "Arte Contemporânea (60%)\nArte nos séculos XV e XVI (10%)\nElementos básicos das Artes Plásticas (10%)\nElementos básicos de Música (10%)\nMúsica no século XX (5%)"
+  },
+  {
+    "materia": "Inglês/Espanhol",
+    "assuntos": "Interpretação de Textos (51,3%)\nDomínio Lexical (11,3%)\nIdentificação da Função do Texto (8,7%)"
+  },
+  {
+    "materia": "Matemática",
+    "assuntos": "Geometria (22,5%)\nEquação do Primeiro Grau e Equação do Segundo Grau (17%)\nEscalas, Razão e Proporção (14,2%)\nGrandezas proporcionais e médias algébricas (14%)\nAritmética (11,8%)\nPorcentagem e matemática financeira (11%)\nGráficos e Tabelas (9,1%)\nFunções (8,7%)\nNoções básicas de estatística (6%)\nProbabilidade (6%)\nÁrea de figuras planas e polígonos (5%)"
+  },
+  {
+    "materia": "História",
+    "assuntos": "Idade Contemporânea (17,7%)\n2ª Guerra Mundial e suas consequências (13,6%)\nBrasil Colônia (12,7%)\nPrimeiro Reinado e Segundo Reinado (12,3%)\nGovernos pós-regime militar - Redemocratização (12,3%)\nEra Vargas (11,1%)\nHistória Política (10,5%)\nRepública Velha (9,9%)\nPatrimônio Histórico-Cultural e Memória (7,8%)"
+  },
+  {
+    "materia": "Geografia",
+    "assuntos": "Geografia Agrária (18,1%)\nQuestões Ambientais (15,5%)\nGeografia Física (10,9%)\nGeografia Urbana (10,4%)\nClimatologia (10,4%)\nUrbanização (10,4%)\nGlobalização (9,1%)\nCartografia (6,5%)\nIndústria (6,5%)"
+  },
+  {
+    "materia": "Filosofia",
+    "assuntos": "Aristóteles e escola helenística (18,8%)\nÉtica e Justiça (18,7%)\nRacionalismo moderno (18,8%)\nFilosofia Antiga (16,8%)\nEscola sofística, Sócrates e Platão (12,5%)\nFilosofia Contemporânea (12,4%)\nNatureza do Conhecimento (11,6%)\nFilosofia Moderna (11,6%)"
+  },
+  {
+    "materia": "Sociologia",
+    "assuntos": "Sociologia contemporânea (28,6%)\nMundo do Trabalho (21,9%)\nCultura e Indústria Cultural (12,9%)\nIdeologia (11,6%)\nMeios de Comunicação, Tecnologia e Cultura de Massa (11,6%)\nCidadania (10,3%)\nCapitalismo (7,1%)\nEconomia e sociedade (7,1%)"
+  },
+  {
+    "materia": "Biologia",
+    "assuntos": "Humanidade e Ambiente (19,5%)\nCitologia (11,5%)\nHistologia e Fisiologia (11,5%)\nSistema imunológico (9,9%)\nEcossistemas (8,5%)\nFundamentos da ecologia (8,3%)\nBiotecnologia (8,1%)\nDNA e RNA (5,6%)\nGenética (5,6%)"
+  },
+  {
+    "materia": "Química",
+    "assuntos": "Físico-Química (27,0%)\nQuímica Geral (26,8%)\nQuímica Orgânica (19,2%)\nLigações químicas, polaridade e forças (13,4%)\nReações orgânicas (11%)\nCompostos orgânicos (9,8%)\nEletroquímica (8,5%)\nEstequiometria (8,5%)\nSoluções (7,3%)\nEnergia (6,4%)"
+  },
+  {
+    "materia": "Física",
+    "assuntos": "Mecânica (30,9%)\nEletricidade e Energia (25,8%)\nOndulatória (18%)\nTermologia (17,1%)\nAcústica (11%)\nEnergia, trabalho e potência (8,2%)\nResistores (8,2%)\nCalorimetria (5,5%)\nImpulso, quantidade de movimento e análise dimensional (5,5%)"
+  }
+]
